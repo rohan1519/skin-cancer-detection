@@ -1,0 +1,6 @@
+tensorflow==2.14.0
+numpy
+matplotlib
+pillow
+gradio==3.50.2
+reportlab

@@ -1,0 +1,4 @@
+img,output,timestamp
+.gradio\flagged\img\ee0d5e1ed1606df9dbe9\ISIC_0034143 2.jpg,"{""label"": null, ""confidences"": null}",2025-09-24 22:11:18.634747
+.gradio\flagged\img\00cf12f785573f2bcd95\ISIC_0034143 5.jpg,Benign Skin Lesion,2025-09-24 23:19:26.496990
+.gradio\flagged\img\dc2252fe6c8390e66b37\ISIC_0034143 2.jpg,Benign Skin Lesion,2025-09-25 08:17:02.583275
