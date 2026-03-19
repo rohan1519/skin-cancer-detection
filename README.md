@@ -40,6 +40,7 @@ The model is trained using deep learning techniques to classify skin lesions.
 - Pandas
 - Matplotlib
 - GIT
+- github
 
 ---
 
