@@ -12,7 +12,7 @@ import gradio as gr
 import tensorflow as tf
 from tensorflow.keras.models import load_model
 from tensorflow.keras.utils import img_to_array
-import pyttsx3
+import pyttsx
 
 # -----------------------
 # Config / Paths
