@@ -4,3 +4,4 @@ matplotlib
 pillow
 gradio==3.50.2
 reportlab
+python version 13
