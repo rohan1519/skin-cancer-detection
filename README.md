@@ -16,6 +16,7 @@ The goal of this project is to demonstrate how artificial intelligence can assis
 - Prediction history tracking
 - Simple and user-friendly UI
 - Built using Gradio interface
+- Ask your qustions gpt 
 
 ---
 
