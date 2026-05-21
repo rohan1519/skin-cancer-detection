@@ -1,6 +1,6 @@
 # 🧠 Skin Cancer Detection
 
-This project is an AI-powered web application that detects skin cancer from uploaded skin images using a deep learning model. The application allows users to upload an image and receive an AI-based prediction with confidence score.
+This project is an AI-powered  web application that detects skin cancer from uploaded skin images using a deep learning model. The application allows users to upload an image and receive an AI-based prediction with confidence score and ML.
 
 The goal of this project is to demonstrate how artificial intelligence can assist in early detection of skin cancer.
 
